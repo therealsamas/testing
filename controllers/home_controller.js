@@ -1,6 +1,3 @@
-const passport = require('passport');
-const User = require('../models/user');
-const mongoose = require('mongoose');
 
 
 module.exports.home = async function(req,res){
